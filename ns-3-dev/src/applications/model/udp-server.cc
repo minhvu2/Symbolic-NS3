@@ -30,7 +30,7 @@
 #include "ns3/packet.h"
 #include "ns3/uinteger.h"
 #include "packet-loss-counter.h"
-#include "/home/s2e/s2e/s2e.h"
+#include "s2e.h"
 
 #include "seq-ts-header.h"
 #include "udp-server.h"

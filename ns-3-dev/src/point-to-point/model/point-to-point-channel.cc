@@ -23,7 +23,7 @@
 #include "ns3/simulator.h"
 #include "ns3/log.h"
 #include "ns3/boolean.h"
-#include "/home/s2e/s2e/s2e.h"
+#include "s2e.h"
 
 namespace ns3 {
 
